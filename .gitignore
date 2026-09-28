@@ -1,0 +1,11 @@
+node_modules/
+.env
+.wwebjs_cache/
+.wwebjs_auth/
+data/
+*.png
+
+# Protección de base de datos de clientes
+clientes.json
+clientes.xlsx
+soporte/
